@@ -1,0 +1,9 @@
+[root@ip-172-31-45-153 apps]# git init
+
+[root@ip-172-31-45-153 apps]# git add .
+
+[root@ip-172-31-45-153 apps]# git commit -m "first commit"
+
+[root@ip-172-31-45-153 apps]# git remote add origin https://github.com/shahabajsshaikh/helm-demp.git
+
+[root@ip-172-31-45-153 apps]# git push -u origin master
